@@ -1,3 +1,3 @@
 #include <stdio.h>
-printf("%s", "Hello World");
+printf("%s", "H");
 int v;
